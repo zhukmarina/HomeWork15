@@ -7,15 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		051347302BC9A3C7005A772F /* WellcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0513472F2BC9A3C7005A772F /* WellcomeViewController.swift */; };
+		051347322BC9A3E2005A772F /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051347312BC9A3E2005A772F /* SignInViewController.swift */; };
+		051347342BC9A409005A772F /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051347332BC9A409005A772F /* SignUpViewController.swift */; };
+		051347362BC9A427005A772F /* MainTabbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051347352BC9A427005A772F /* MainTabbarViewController.swift */; };
 		056AE7AD2BC73362009F7572 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7AC2BC73362009F7572 /* AppDelegate.swift */; };
 		056AE7AF2BC73362009F7572 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7AE2BC73362009F7572 /* SceneDelegate.swift */; };
 		056AE7B12BC73362009F7572 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7B02BC73362009F7572 /* ViewController.swift */; };
 		056AE7B42BC73362009F7572 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 056AE7B32BC73362009F7572 /* Base */; };
 		056AE7B62BC73363009F7572 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 056AE7B52BC73363009F7572 /* Assets.xcassets */; };
 		056AE7B92BC73363009F7572 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 056AE7B82BC73363009F7572 /* Base */; };
+		056AE7C12BC9A163009F7572 /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7C02BC9A163009F7572 /* GreenViewController.swift */; };
+		056AE7C32BC9A1AE009F7572 /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7C22BC9A1AE009F7572 /* RedViewController.swift */; };
+		056AE7C52BC9A1CA009F7572 /* YellowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7C42BC9A1CA009F7572 /* YellowViewController.swift */; };
+		056AE7C72BC9A1E3009F7572 /* WhiteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7C62BC9A1E3009F7572 /* WhiteViewController.swift */; };
+		056AE7C92BC9A1F3009F7572 /* BlackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7C82BC9A1F3009F7572 /* BlackViewController.swift */; };
+		056AE7CB2BC9A207009F7572 /* BrownViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056AE7CA2BC9A207009F7572 /* BrownViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0513472F2BC9A3C7005A772F /* WellcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WellcomeViewController.swift; sourceTree = "<group>"; };
+		051347312BC9A3E2005A772F /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		051347332BC9A409005A772F /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		051347352BC9A427005A772F /* MainTabbarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabbarViewController.swift; sourceTree = "<group>"; };
 		056AE7A92BC73362009F7572 /* navigationHW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = navigationHW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		056AE7AC2BC73362009F7572 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		056AE7AE2BC73362009F7572 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +38,12 @@
 		056AE7B52BC73363009F7572 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		056AE7B82BC73363009F7572 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		056AE7BA2BC73363009F7572 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		056AE7C02BC9A163009F7572 /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
+		056AE7C22BC9A1AE009F7572 /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
+		056AE7C42BC9A1CA009F7572 /* YellowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YellowViewController.swift; sourceTree = "<group>"; };
+		056AE7C62BC9A1E3009F7572 /* WhiteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiteViewController.swift; sourceTree = "<group>"; };
+		056AE7C82BC9A1F3009F7572 /* BlackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackViewController.swift; sourceTree = "<group>"; };
+		056AE7CA2BC9A207009F7572 /* BrownViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrownViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +57,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0513472E2BC9A2EB005A772F /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				056AE7B02BC73362009F7572 /* ViewController.swift */,
+				056AE7C02BC9A163009F7572 /* GreenViewController.swift */,
+				056AE7C22BC9A1AE009F7572 /* RedViewController.swift */,
+				056AE7C62BC9A1E3009F7572 /* WhiteViewController.swift */,
+				056AE7CA2BC9A207009F7572 /* BrownViewController.swift */,
+				056AE7C82BC9A1F3009F7572 /* BlackViewController.swift */,
+				056AE7C42BC9A1CA009F7572 /* YellowViewController.swift */,
+				0513472F2BC9A3C7005A772F /* WellcomeViewController.swift */,
+				051347312BC9A3E2005A772F /* SignInViewController.swift */,
+				051347332BC9A409005A772F /* SignUpViewController.swift */,
+				051347352BC9A427005A772F /* MainTabbarViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
 		056AE7A02BC73362009F7572 = {
 			isa = PBXGroup;
 			children = (
@@ -58,7 +96,7 @@
 			children = (
 				056AE7AC2BC73362009F7572 /* AppDelegate.swift */,
 				056AE7AE2BC73362009F7572 /* SceneDelegate.swift */,
-				056AE7B02BC73362009F7572 /* ViewController.swift */,
+				0513472E2BC9A2EB005A772F /* ViewControllers */,
 				056AE7B22BC73362009F7572 /* Main.storyboard */,
 				056AE7B52BC73363009F7572 /* Assets.xcassets */,
 				056AE7B72BC73363009F7572 /* LaunchScreen.storyboard */,
@@ -138,9 +176,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				056AE7C92BC9A1F3009F7572 /* BlackViewController.swift in Sources */,
+				051347362BC9A427005A772F /* MainTabbarViewController.swift in Sources */,
+				056AE7C32BC9A1AE009F7572 /* RedViewController.swift in Sources */,
+				051347302BC9A3C7005A772F /* WellcomeViewController.swift in Sources */,
+				056AE7C72BC9A1E3009F7572 /* WhiteViewController.swift in Sources */,
 				056AE7B12BC73362009F7572 /* ViewController.swift in Sources */,
+				056AE7CB2BC9A207009F7572 /* BrownViewController.swift in Sources */,
+				051347342BC9A409005A772F /* SignUpViewController.swift in Sources */,
 				056AE7AD2BC73362009F7572 /* AppDelegate.swift in Sources */,
+				056AE7C12BC9A163009F7572 /* GreenViewController.swift in Sources */,
+				056AE7C52BC9A1CA009F7572 /* YellowViewController.swift in Sources */,
 				056AE7AF2BC73362009F7572 /* SceneDelegate.swift in Sources */,
+				051347322BC9A3E2005A772F /* SignInViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
